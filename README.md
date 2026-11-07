@@ -1,4 +1,4 @@
-
+```markdown
 # Lexis-Core: Legal Contract Lifecycle & Precedent Memory Agent
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -40,6 +40,9 @@ The agent oversees contract operations across intake, risk analysis, negotiation
    +------------------------------+------------------------------+
    |                                                             |
    v                                                             v
+
+```
+
 +---------------+                                             +--------------+
 | Risk Scoring  |                                             | Precedent DB |
 | & Escalation  |                                             | (Playbooks & |
@@ -212,7 +215,6 @@ Customize risk scoring weights and clause hierarchies in `config/playbook_baseli
 Distributed under the [MIT License](https://www.google.com/search?q=LICENSE).
 
 ```
-
-<FollowUp label="Want help generating the requirements.txt and .gitignore files to commit alongside this README?" query="Generate requirements.txt and .gitignore files for the lex-precedent repository."/>
+files for the lex-precedent repository."/>
 
 ```
