@@ -1,4 +1,4 @@
-```markdown
+
 # Lexis-Core: Legal Contract Lifecycle & Precedent Memory Agent
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -213,8 +213,3 @@ Customize risk scoring weights and clause hierarchies in `config/playbook_baseli
 ## License
 
 Distributed under the [MIT License](https://www.google.com/search?q=LICENSE).
-
-```
-files for the lex-precedent repository."/>
-
-```
